@@ -1,4 +1,4 @@
-# Secure-Link — Self-Governing GenAI Document Auditor
+# Secure-Link: Self-Governing GenAI Document Auditor
 
 **Apr 2026 – Present**  
 **Status:** In Progress
@@ -78,12 +78,12 @@ Secure-Link addresses this by placing a governance and redaction layer *before* 
 
 Example structure you may see (or plan to add):
 
-- `app/` — FastAPI application and API routes  
-- `services/` — PII detection, redaction, summarization services  
-- `models/` — model loading/inference utilities (Transformers)  
-- `observability/` — metrics, logging, tracing, dashboards  
-- `docker/` — Dockerfiles and container configs  
-- `.github/workflows/` — CI/CD pipelines (GitHub Actions)
+- `app/` - FastAPI application and API routes  
+- `services/` - PII detection, redaction, summarization services  
+- `models/` - model loading/inference utilities (Transformers)  
+- `observability/` - metrics, logging, tracing, dashboards  
+- `docker/` - Dockerfiles and container configs  
+- `.github/workflows/` - CI/CD pipelines (GitHub Actions)
 
 ---
 
